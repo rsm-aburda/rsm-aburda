@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center" style="font-size: 48px;">
+  Hello there! 👋 I'm Andrew, a Data Analyst💎 and current MSBA student at UC San Diego🔱. 
+  Welcome to my GitHub! Here, you'll find projects that showcase my passion for product🚀, 
+  data science 📊, and AI 🤖. Let's build something amazing together! 😊
+</p>
 
-<!--
-**rsm-aburda/rsm-aburda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://www.linkedin.com/in/andrew-burda/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rsm-aburda/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=res-aburda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false&order=2" height="142" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rsm-aburda&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="142" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsm-aburda&radius=16&theme=chartreuse-dark&area=true&order=5" height="270" alt="activity-graph graph"  />
+</div>
