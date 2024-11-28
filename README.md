@@ -12,14 +12,6 @@
 
 ###
 
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rsm-aburda/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
