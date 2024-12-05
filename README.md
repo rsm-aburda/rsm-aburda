@@ -1,7 +1,6 @@
 <p align="center" style="font-size: 48px;">
   Hello there! 👋 I'm Andrew, a Data Analyst💎 and current MSBA student at UC San Diego🔱. 
-  Welcome to my GitHub! Here, you'll find projects that showcase my passion for product🚀, 
-  data science 📊, and AI 🤖. Explore, Build, Break, Learn 😊
+  Welcome to my GitHub! Explore, Build, Break, Learn 😊
 </p>
 
 <div align="center">
