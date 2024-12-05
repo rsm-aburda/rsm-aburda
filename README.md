@@ -1,6 +1,5 @@
 <p align="center" style="font-size: 48px;">
   Hello there! 👋 I'm Andrew, a Data Analyst💎 and current MSBA student at UC San Diego🔱. 
-  ---
   Explore, Build, Break, Learn 🚀
 </p>
 
