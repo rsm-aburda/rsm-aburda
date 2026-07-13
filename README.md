@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Andrew 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Explore%2C+Build%2C+Break%2C+Learn;Data+Analyst+%40+GIA;Founder+%40+Upcycled+Supply+Co;Building+STOA" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Data+Analyst+%40+GIA;Founder+%40+Upcycled+Supply+Co;Building+STOA" alt="typing" />
 </p>
 
 <p align="center">
@@ -11,11 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=rsm-aburda&label=Views&color=7AA2F7&style=for-the-badge" />
 </p>
 
-<h3>🧰 Tech Stack</h3>
+<h3 align="center">🧰 Tech Stack</h3>
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,r,react,nextjs,nodejs,tailwind,mongodb,vercel,git,figma&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,r,react,nextjs,nodejs,tailwind,mongodb,vercel,git,figma&theme=dark" />
+</p>
 
-<h3>📊 Live Stats</h3>
+<h3 align="center">📊 Live Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsm-aburda&theme=tokyonight&hide_border=true" />
@@ -25,10 +27,4 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsm-aburda&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<h3 align="center">🏆 Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rsm-aburda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
