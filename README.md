@@ -17,20 +17,13 @@
   <img src="https://skillicons.dev/icons?i=ts,js,python,r,react,nextjs,nodejs,tailwind,mongodb,vercel,git,figma&theme=dark" />
 </p>
 
-<h3 align="center">📊 Most Used Languages</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsm-aburda&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rsm-aburda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
-
-<h3 align="center">📈 Live Stats</h3>
+<h3 align="center">📊 Live Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsm-aburda&theme=tokyonight&hide_border=true" />
 </p>
 
-<h3 align="center">📊 Contribution Graph</h3>
+<h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsm-aburda&theme=tokyo-night&hide_border=true&area=true" />
