@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Andrew 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Data+Analyst+%40+GIA;Founder+%40+Upcycled+Supply+Co;Building+STOA" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=Data+Analyst+%40+GIA;Founder+%40+Upcycled+Supply+Co;Building+STOA;MSBA%2C+UC+San+Diego" alt="typing" />
 </p>
 
 <p align="center">
-  <a href="https://andrewburda.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://andrewburda.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/andrew-burda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/rsm-aburda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=rsm-aburda&label=Views&color=7AA2F7&style=for-the-badge" />
@@ -17,13 +17,20 @@
   <img src="https://skillicons.dev/icons?i=ts,js,python,r,react,nextjs,nodejs,tailwind,mongodb,vercel,git,figma&theme=dark" />
 </p>
 
-<h3 align="center">📊 Live Stats</h3>
+<h3 align="center">📊 Most Used Languages</h3>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsm-aburda&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rsm-aburda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
+
+<h3 align="center">📈 Live Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsm-aburda&theme=tokyonight&hide_border=true" />
 </p>
 
-<h3 align="center">📈 Contribution Graph</h3>
+<h3 align="center">📊 Contribution Graph</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsm-aburda&theme=tokyo-night&hide_border=true&area=true" />
